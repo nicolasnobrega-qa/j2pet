@@ -13,5 +13,5 @@ jobs:
         run: |
           pip install Selenium pytest
           # Instalar Chromedriver se necessário
-      - name: Run Selenium Testes
+      - name: teste_seleniumjpet.py
         run: pytest #   
